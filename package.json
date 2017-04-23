@@ -1,0 +1,43 @@
+{
+  "name": "Form",
+  "version": "1.0.0",
+  "description": "Form",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack -w"
+  },
+  "author": "Anshul Jain",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.0",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "body-parser": "^1.17.1",
+    "chai": "^3.5.0",
+    "cors": "^2.8.3",
+    "css-loader": "^0.27.3",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "history": "^4.6.1",
+    "jquery": "^3.2.1",
+    "jwt-simple": "^0.5.1",
+    "material-ui": "^0.17.1",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1",
+    "passport-jwt": "^2.2.1",
+    "react": "^15.4.2",
+    "react-cookie": "^1.0.5",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.4",
+    "react-router": "^4.0.0",
+    "react-router-dom": "^4.0.0",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.6.0",
+    "style-loader": "^0.14.1",
+    "supertest": "^3.0.0",
+    "webpack": "^2.2.1"
+  }
+}
